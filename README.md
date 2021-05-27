@@ -15,9 +15,5 @@ Skills: ```python```, ```tensorflow```, ```keras```, ```opencv```, ```django```,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softdude47)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=softdude47&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=softdude47)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=softdude47)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=softdude47&show_icons=true)  
 
