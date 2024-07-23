@@ -2,9 +2,9 @@
 #### Web Development and Machine Learning
 ![Web Development and Machine Learning](https://pbs.twimg.com/profile_banners/1215251936041164800/1622075031/600x200)
 
-I'm Precious from Nigeria and I create websites and machine learning models specifically for computer vision. I really enjoy learning frameworks and state-of-the-art machine learning models and research papers.
+I'm Precious from Nigeria and I create websites and have background in deep learning models specifically for computer vision. Currently rebuilding passion for coding
 
-Skills: ```python```, ```tensorflow```, ```keras```, ```opencv```, ```django```, ```node js```, ```react.js```
+Skills: ```python```, ```tensorflow```, ```keras```, ```opencv```, ```django```, ```node js```, ```react.js```, ```expressjs```
 
 - 🔭 I’m currently working on my own website and some machine learning projects. 
 
