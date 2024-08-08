@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Precious
 #### Web Development and Machine Learning
-![Web Development and Machine Learning](https://pbs.twimg.com/profile_banners/1215251936041164800/1622075031/600x200)
+![Web Development and Machine Learning]
 
 I'm Precious from Nigeria and I create websites and have background in deep learning models specifically for computer vision. Currently rebuilding passion for coding
 
