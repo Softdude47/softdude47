@@ -2,11 +2,11 @@
 #### Web Development and Machine Learning
 ![Web Development and Machine Learning]
 
-I'm Precious from Nigeria and I create websites and have background in deep learning models specifically for computer vision. Currently rebuilding passion for coding
+I'm Precious from Nigeria and I have background in deep learning models specifically for computer vision. Currently rebuilding passion for coding
 
-Skills: ```python```, ```tensorflow```, ```keras```, ```opencv```, ```django```, ```node js```, ```react.js```, ```expressjs```
+Skills: ```python```, ```tensorflow```, ```keras```, ```opencv```
 
-- 🔭 I’m currently working on my own website and some machine learning projects. 
+- 🔭 I’m currently working on some deep learning projects. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/softdude47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/precious-godwin-56233b170/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/precious.godwin.739978)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/softdude47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/softdude47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ssZ7J6dmay3C7UtdhaVxBg)  
